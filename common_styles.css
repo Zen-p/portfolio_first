@@ -7,7 +7,7 @@
     display: flex;
     justify-content: end;
     gap: 36px;
-    Line-height: 29.38px;
+    line-height: 29.38px;
     padding-top: 27px;
 }
 
@@ -18,5 +18,5 @@
 }
 
 .navigation__bar span {
-    color: #FF6464;
+    color: #ff6464;
 }
