@@ -21,16 +21,41 @@
     color: #ff6464;
 }
 
-.titles__width__weigth__700 {
+.titles__header {
     font-weight: 700;
 }
 
-.titles__width__weigth__700 .heading  {
-    color: #21243D;
+.titles__header .heading {
+    color: #21243d;
     font-size: 44px;
     line-height: 60px;
-    padding-bottom: 0;
     display: inline-block;
-    border: 1px solid red;
-    margin-top: 228px;
+    margin-top: 172px;
 }
+
+.main__unit {
+    margin-top: 23px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #21243d;
+    letter-spacing: 1px;
+    line-height: 24px;
+}
+
+.titles__header .button {
+    display: inline-block;
+    background: #ff6464;
+    border-radius: 2px;
+    padding: 9px 21px;
+    margin-top: 32px;
+}
+
+
+
+.titles__header .button a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 29px;
+}    
