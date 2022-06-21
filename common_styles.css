@@ -20,3 +20,17 @@
 .navigation__bar span {
     color: #ff6464;
 }
+
+.titles__width__weigth__700 {
+    font-weight: 700;
+}
+
+.titles__width__weigth__700 .heading  {
+    color: #21243D;
+    font-size: 44px;
+    line-height: 60px;
+    padding-bottom: 0;
+    display: inline-block;
+    border: 1px solid red;
+    margin-top: 228px;
+}
