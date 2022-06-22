@@ -13,7 +13,7 @@
 }
 .section {
     height: 396px;
-    background: #EDF7FA;
+    background: #edf7fa;
 }
 
 .titles__body p:first-child {
@@ -21,11 +21,10 @@
     font-size: 22px;
     font-weight: 400px;
     padding-top: 9px;
-    
 }
 
 .titles__body p:last-child {
-    color: #00A8CC;
+    color: #00a8cc;
     font-size: 16px;
     line-height: 24px;
     padding-top: 28px;
@@ -48,7 +47,6 @@
     line-height: 38px;
     margin-left: 26px;
     padding-top: 24px;
-    
 }
 
 .date p {
