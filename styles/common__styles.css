@@ -1,13 +1,12 @@
 body {
     box-sizing: border-box;
     color: #21243d;
-    min-width: 886px;
+    
 }
 
 .container {
     margin: 0 auto;
-    width: 886px;
-    padding: 0 15px;
+    width: 856px;
 }
 
 .navigation__bar {
