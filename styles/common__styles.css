@@ -1,8 +1,7 @@
 body {
     box-sizing: border-box;
-    color: #21243d;
-    overflow: hidden;
-    
+    color: #21243d; 
+    overflow-x: visible;
 }
 
 
