@@ -65,10 +65,17 @@
     letter-spacing: 0.4px;
     font-size: 15px;
     margin-left: 26px;
-    color: #21243D;
+    
 }
 
 .units {
     display: flex;
     justify-content: space-between;
 }
+
+.body__heading p {
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 44px;
+}
+

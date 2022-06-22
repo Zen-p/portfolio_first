@@ -1,5 +1,6 @@
 html {
     box-sizing: border-box;
+    color: #21243D;
 }
 .container {
     margin: 0 auto;
@@ -7,9 +8,11 @@ html {
 }
 
 .navigation__bar {
+    width: 856px;
     display: flex;
     position: fixed;
-    
+
+    background: #fff;
     gap: 36px;
     line-height: 29.38px;
     padding-top: 27px;
@@ -30,7 +33,7 @@ html {
 }
 
 .titles__header .heading {
-    color: #21243d;
+    
     font-size: 44px;
     line-height: 60px;
     display: inline-block;
@@ -64,6 +67,37 @@ html {
     line-height: 29px;
 }    
 
-.section {
-    
+.periphery .year {
+    display: inline-block;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 16px;
+    padding: 8px 10px 6px 10px;
+    background: #142850;
+    color: #fff;
+    border-radius: 16px;
+}
+
+.periphery p:nth-child(2) {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    color: #8695A4;
+}
+
+.periphery {
+    margin-top: 20px;
+    display: flex;
+    justify-content: flex-start;
+    gap: 26px;
+}
+
+.work__unit {
+    margin-top: 46px;
+    display: flex;
+    gap: 18px;
+}
+
+.titles {
+    margin-top: -8px;
 }
