@@ -14,12 +14,14 @@
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
     .section {
+        width: 100%;
+    }
+}
+
+.section {
     height: 396px;
     background: #edf7fa;
 }
-}
-
-
 
 .titles__body p:nth-child(1) {
     line-height: 60px;
