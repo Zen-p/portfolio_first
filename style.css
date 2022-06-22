@@ -35,3 +35,41 @@
     display: flex;
     justify-content: space-between;
 }
+
+.body {
+    width: 418px;
+    height: 295px;
+    background: #fff;
+}
+
+.unit__text {
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 38px;
+    margin-left: 26px;
+    padding-top: 24px;
+    
+}
+
+.date p {
+    line-height: 26px;
+}
+.date {
+    display: flex;
+    justify-content: flex-start;
+    gap: 32px;
+    margin-left: 26px;
+    letter-spacing: 1px;
+    margin-top: 27px;
+}
+
+.units .main__unit {
+    letter-spacing: 0.4px;
+    font-size: 15px;
+    margin-left: 26px;
+}
+
+.units {
+    display: flex;
+    justify-content: space-between;
+}
