@@ -1,11 +1,13 @@
-html {
+body {
     box-sizing: border-box;
     color: #21243d;
+    min-width: 886px;
 }
 
 .container {
     margin: 0 auto;
-    width: 856px;
+    width: 886px;
+    padding: 0 15px;
 }
 
 .navigation__bar {
