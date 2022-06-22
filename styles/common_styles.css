@@ -8,11 +8,11 @@ html {
 }
 
 .navigation__bar {
-    width: 856px;
+    
     display: flex;
-    position: fixed;
+    justify-content: flex-end;
 
-    background: #fff;
+    
     gap: 36px;
     line-height: 29.38px;
     padding-top: 27px;
