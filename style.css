@@ -16,14 +16,14 @@
     background: #edf7fa;
 }
 
-.titles__body p:first-child {
+.titles__body p:nth-child(1) {
     line-height: 60px;
     font-size: 22px;
     font-weight: 400px;
     padding-top: 9px;
 }
 
-.titles__body p:last-child {
+.titles__body p:nth-child(2) {
     color: #00a8cc;
     font-size: 16px;
     line-height: 24px;
@@ -65,6 +65,7 @@
     letter-spacing: 0.4px;
     font-size: 15px;
     margin-left: 26px;
+    color: #21243D;
 }
 
 .units {
