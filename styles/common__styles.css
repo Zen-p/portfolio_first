@@ -1,12 +1,22 @@
 body {
     box-sizing: border-box;
     color: #21243d;
+    overflow: hidden;
     
 }
 
+
+
+@media (max-width:886px){
+    .container {
+        max-width: none;
+    }
+}
+
 .container {
+    padding: 0 15px;
     margin: 0 auto;
-    width: 856px;
+    max-width: 886px;
 }
 
 .navigation__bar {
@@ -57,6 +67,7 @@ body {
     border-radius: 2px;
     padding: 9px 21px;
     margin-top: 32px;
+    margin-bottom: 71px;
 }
 
 .titles__header .button a {
