@@ -1,0 +1,15 @@
+.label p {
+    display: inline-block;
+    font-size: 44px;
+    font-weight: 900;
+    line-height: 22px;
+    padding-top: 162px;
+}
+
+.foot {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 21px;
+    margin: 51px 0;
+}
